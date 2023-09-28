@@ -1131,6 +1131,8 @@ margin:0px;
 .testimonial-col2 p,
 .testimonial-col3 p {
 transform: translateX(-9%);
+  padding-left: 5px;
+padding-right: 5px;
 }
 
 .testimonial-col1 h3,
